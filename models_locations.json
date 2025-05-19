@@ -1,0 +1,20 @@
+[
+    "/ardupilot_gazebo/models",
+    "/ARTI-Robots_gazebo_worlds/gazebo_worlds/models",
+    "/aws-robomaker-bookstore-world/models",
+    "/aws-robomaker-hospital-world/models",
+    "/aws-robomaker-racetrack-world/models",
+    "/aws-robomaker-small-house-world/models",
+    "/aws-robomaker-small-warehouse-world/models",
+    "/cpr_gazebo/cpr_inspection_gazebo/models",
+    "/Dataset-of-Gazebo-Worlds-Models-and-Maps/robots",
+    "/fetch_gazebo/fetch_gazebo/models",
+    "/fetch_gazebo/fetchit_challenge/models",
+    "/gazebo_models_worlds_collection/models",
+    "/gazebo_resources/models",
+    "/PX4-gazebo-models/models",
+    "/PX4-SITL_gazebo-classic/models",
+    "/rotors_simulator/rotors_gazebo/models",
+    "/tudelft_gazebo_models/models",
+    "/two_wheeled_robot/models"
+]

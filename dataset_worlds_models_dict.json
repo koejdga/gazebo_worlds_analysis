@@ -1,0 +1,13 @@
+{
+    "bookstore/bookstore/bookstore.world": "bookstore/bookstore/models",
+    "experiment_rooms/worlds/room1/world.model": "experiment_rooms/models",
+    "experiment_rooms/worlds/room2/world.model": "experiment_rooms/models",
+    "experiment_rooms/worlds/room2/world_dynamic.model": "experiment_rooms/models",
+    "experiment_rooms/worlds/room3/world.model": "experiment_rooms/models",
+    "experiment_rooms/worlds/room3/world_dynamic.model": "experiment_rooms/models",
+    "experiment_rooms/worlds/room4/world.model": "experiment_rooms/models",
+    "experiment_rooms/worlds/room4/world_dynamic.model": "experiment_rooms/models",
+    "factory/factory.model": "factory/models",
+    "office/office_part1/service.world": "office/office_part1/models",
+    "small_house/small_house/small_house.world": "small_house/small_house/models"
+}
